@@ -1,0 +1,24 @@
+.footer_icons{
+    display: flex;
+    justify-content: space-between;
+    width:100px;
+    color: white;
+    margin-left: 300px;
+}
+.footer_data{
+    display: flex; 
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+ 
+}
+div li{
+    color: white;
+    opacity: 0.5;
+    font-family: 'Times New Roman', Times, serif;
+} 
+.service_code,.copy_write{
+    color: white;
+    margin-left: 200px;
+    opacity: 0.7;
+}
